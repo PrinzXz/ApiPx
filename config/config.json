@@ -1,0 +1,31 @@
+{
+	"srv": {
+		"host": "http://localhost",
+		"post": 2055,
+		"root": "*",
+		"req_limit": 100,
+		"detect_window": 15000
+	},
+	"web": {
+		"name": "PrinzXz Api",
+		"maintenance": true
+	},
+	"msg": {
+		"srvErr": {
+			"status": false,
+			"message": "internal server error"
+		},
+		"needQuery": {
+			"status": false,
+			"message": "Silahkan Masukan Query"
+	    },
+		"needUrl": {
+			"status": false,
+			"message": "Silahkan Masukan Url"
+		},
+		"notfound": {
+			"status": false,
+			"message": "Halaman Tidak Di Temukan"
+		}
+	}
+}

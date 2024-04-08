@@ -1,0 +1,26 @@
+{
+   "6289652552565": {
+      "username": "PrinzXz Inc.",
+      "password": "admin",
+      "premium": true,
+      "isAdmin": true,
+      "api": {
+         "key": "Px-KeyPrinz",
+         "limit": 30,
+         "usage": 0,
+         "last_reset": "2024-04-08T13:20:58.672Z"
+      }
+   },
+   "6289652552565@s.whatsapp.net": {
+      "username": "PrinzXz Inc.",
+      "password": "yayaya",
+      "premium": false,
+      "isAdmin": false,
+      "api": {
+         "key": "Px-fbtUWTiiBl",
+         "limit": 30,
+         "usage": 1,
+         "last_reset": "2024-04-08T13:20:58.672Z"
+      }
+   }
+}
